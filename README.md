@@ -65,6 +65,3 @@ src/
 ├── types/
 │   └── inventory.ts    # TypeScript interfaces
 └── App.tsx             # Main application entry
-📝 License
-This project is licensed under the Apache-2.0 License.
-Built with ❤️ for Warehouse Managers.
